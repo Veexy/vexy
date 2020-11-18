@@ -5,5 +5,4 @@
 
 <a     align="center" href="https://discord.gg/CPfSRcj6GB">
   <img align="center" src="https://cdn.discordapp.com/attachments/775847001689423872/776204387072606238/image0.gif" />
-  <p   align="left">Twitter</p>
 </a>
